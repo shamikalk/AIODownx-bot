@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/Videos-All_Types_Free-red?style=for-the-badge" alt="All Types">
 </div>
 
-> `All-In-One Video Downloader — Download videos from TikTok, Facebook, Pinterest, Instagram, Reddit & more directly in Telegram!`
-
 ## 💫 All In On Downloader Bot
 Hello Their, WelCome to the **All In One Downloader Bot**  ([@AIODownx_bot](https://t.me/AIODownx_bot)). Your ultimate solution for saving and sharing videos from TikTok, Facebook, Pinterest, Instagram, Reddit & more — without any restrictions! Designed to provide a seamless experience, our bot lets you enjoy videos from all major social media platforms
 
@@ -68,6 +66,13 @@ START → SEND ANY SOCIAL LINK → CHOOSE FORMAT → DOWNLOAD → REPLY TO THE V
 ## 📜 Terms of Service
 
 This bot is for personal use only. Respect the Terms of Service & Copyright Laws of all supported platforms (TikTok, Facebook, Pinterest, Instagram & ...etc). Users are responsible for their own usage.
+
+## 📞 Contact & Support
+
+For issues, suggestions, or feature requests:
+
+* 🚀 **Developer: [@thejan_go]()**
+* 📢 **Join our Support Channel: [JOIN]()**
 
 ---
 
