@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://t.me/AIODownx_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot"></a>
-  <a href="https://github.com/shamikalk"><img src="https://img.shields.io/badge/Coded_By-MR.Shamika-orange?style=for-the-badge&logo=telegram" alt="Coded By"></a>
+  <a href="https://github.com/shamikalk"><img src="https://img.shields.io/badge/Developer-MR.Shamika-orange?style=for-the-badge&logo=telegram" alt="Developer"></a>
   <img src="https://img.shields.io/badge/Status-Online_24/7-success?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Videos-All_Types_Free-red?style=for-the-badge" alt="All Types">
 </div>
