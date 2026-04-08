@@ -52,7 +52,7 @@ START → SEND ANY SOCIAL LINK → CHOOSE FORMAT → DOWNLOAD → SHARE
 ## 🎬 Round Video Conversion
 Use `/round` as a reply to any video message:
 ```
-START → SEND ANY SOCIAL LINK → CHOOSE FORMAT → DOWNLOAD → REPLY TO THE VIDEO "/round" → DONE
+START → SEND ANY SOCIAL LINK → CHOOSE FORMAT → DOWNLOAD → REPLY TO THE VIDEO "/round" → SHARE
 ```
 
 
@@ -71,7 +71,7 @@ This bot is for personal use only. Respect the Terms of Service & Copyright Laws
 
 For issues, suggestions, or feature requests:
 
-* 🚀 **Developer: [@thejan_go]()**
+* 🚀 **Developer: [@shamika]()**
 * 📢 **Join our Support Channel: [JOIN]()**
 
 ---
