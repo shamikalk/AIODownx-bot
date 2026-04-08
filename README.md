@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Videos-All_Types_Free-red?style=for-the-badge" alt="All Types">
 </div>
 
-## 💫 All In On Downloader Bot
+## 💫 All In One Downloader Bot
 Hello Their, WelCome to the **All In One Downloader Bot**  ([@AIODownx_bot](https://t.me/AIODownx_bot)). Your ultimate solution for saving and sharing videos from TikTok, Facebook, Pinterest, Instagram, Reddit & more — without any restrictions! Designed to provide a seamless experience, our bot lets you enjoy videos from all major social media platforms
 
 ### ✨ Features
