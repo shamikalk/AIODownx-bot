@@ -71,7 +71,7 @@ This bot is for personal use only. Respect the Terms of Service & Copyright Laws
 
 For issues, suggestions, or feature requests:
 
-* 🚀 **Developer: [@shamika]()**
+* 🚀 **Developer: [@shamika](https://t.me/shamika_xd)**
 * 📢 **Join our Support Channel: [JOIN]()**
 
 ---
