@@ -25,7 +25,7 @@ Hello Their, WelCome to the **All In One Downloader Bot**  ([@AIODownx_bot](http
 |**📌 Pinterest** | Multiple resolutions (360p → 1080p) + Audio
 |**📸 Instagram** | Reels, Posts, Stories (SD/HD)
 |**🤖 Reddit** | Video + Audio tracks
-|**▶️ YouTube** | Coming soon 🔜
+|**▶️ YouTube** | Video + Audio tracks
 |**🐦 Twitter/X** | Coming soon 🔜
 
 ### 🎯 Additional Features
