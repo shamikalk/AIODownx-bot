@@ -55,7 +55,7 @@ Use `/round` as a reply to any video message:
 ```
 START → SEND ANY SOCIAL LINK → CHOOSE FORMAT → DOWNLOAD → REPLY TO THE VIDEO "/round" → SHARE
 ```
-## 🎬 Voice Note Conversion
+## 🎵 Voice Note Conversion
 Use `/round` as a reply to any video or audio message:
 ```
 START → SEND ANY SOCIAL LINK → CHOOSE FORMAT → DOWNLOAD → REPLY TO THE VIDEO OR AUDIO "/voice" → SHARE
