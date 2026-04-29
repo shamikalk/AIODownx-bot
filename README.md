@@ -30,6 +30,7 @@ Hello Their, WelCome to the **All In One Downloader Bot**  ([@AIODownx_bot](http
 
 ### 🎯 Additional Features
 * **🔄 `/round`** — Convert any video to a Round video
+* **🔄 `/voice`** — Convert any video or audio to a voice note
 * **📤 Inline Mode** — Share videos directly in any chat
 * **🔐 Channel Membership** — Required to prevent abuse
 * **👥 Group Support** — Use the bot in groups! Just mention the bot or reply to a message
@@ -53,6 +54,11 @@ START → SEND ANY SOCIAL LINK → CHOOSE FORMAT → DOWNLOAD → SHARE
 Use `/round` as a reply to any video message:
 ```
 START → SEND ANY SOCIAL LINK → CHOOSE FORMAT → DOWNLOAD → REPLY TO THE VIDEO "/round" → SHARE
+```
+## 🎬 Voice Note Conversion
+Use `/round` as a reply to any video or audio message:
+```
+START → SEND ANY SOCIAL LINK → CHOOSE FORMAT → DOWNLOAD → REPLY TO THE VIDEO OR AUDIO "/voice" → SHARE
 ```
 
 
