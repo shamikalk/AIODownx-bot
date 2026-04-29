@@ -20,7 +20,7 @@ Hello Their, WelCome to the **All In One Downloader Bot**  ([@AIODownx_bot](http
 ### ✨ Features
 | Feature | Description |
 |---------|-------------|
-|**🎵 TikTok** | Video (No WM / WM / HD) + Audio |
+|**🎵 TikTok** | Video (No WM / WM / HD) + Audio + Slides |
 |**📘 Facebook** | SD / HD Video + Audio
 |**📌 Pinterest** | Multiple resolutions (360p → 1080p) + Audio
 |**📸 Instagram** | Reels, Posts, Stories (SD/HD)
