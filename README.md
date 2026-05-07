@@ -26,7 +26,8 @@ Hello Their, WelCome to the **All In One Downloader Bot**  ([@AIODownx_bot](http
 |**📸 Instagram** | Reels, Posts, Stories (SD/HD)
 |**🤖 Reddit** | Video + Audio tracks
 |**▶️ YouTube** | Video(360p) + Audio(128kbps)
-|**🐦 Twitter/X** | Coming soon 🔜
+|**🎧 SoundCloud** | Audio(128kbps)
+|**🐦 Twitter/X** | All Video Quality Support, Audio, Post
 
 ### 🎯 Additional Features
 * **🔄 `/round`** — Convert any video to a Round video
