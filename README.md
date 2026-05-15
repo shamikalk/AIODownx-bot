@@ -28,6 +28,7 @@ Hello Their, WelCome to the **All In One Downloader Bot**  ([@AIODownx_bot](http
 |**▶️ YouTube** | Video(360p) + Audio(128kbps)
 |**🎧 SoundCloud** | Audio(128kbps)
 |**🐦 Twitter/X** | All Video Quality Support, Audio, Post
+|**＠ Threads** | Video, Audio, Post, Inages, Gift
 
 ### 🎯 Additional Features
 * **🔄 `/round`** — Convert any video to a Round video
